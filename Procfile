@@ -1,0 +1,1 @@
+web: java -jar LocationExtractor.war --port $PORT
